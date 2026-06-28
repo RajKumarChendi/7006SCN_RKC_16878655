@@ -21,7 +21,7 @@ Predicting US domestic flight arrival delays (≥15 minutes) using the BTS On-Ti
 | Task | Week | Notebook | Status | Commits |
 |------|------|----------|--------|---------|
 | T1 — Problem & Dataset | 1–2 | [Task1.ipynb](notebooks/Task1.ipynb) | Done | 3 |
-| T2 — Data Engineering | 2 | [Task2.ipynb](notebooks/Task2.ipynb) | Pending | — |
+| T2 — Data Engineering | 2 | [Task2.ipynb](notebooks/Task2.ipynb) | Done | 4 |
 | T3 — ML Models | 3 | [Task3.ipynb](notebooks/Task3.ipynb) | Pending | — |
 | T4 — Distributed Computing | 4 | [Task4.ipynb](notebooks/Task4.ipynb) | Pending | — |
 | T5 — Evaluation & Stability | 5 | [Task5.ipynb](notebooks/Task5.ipynb) | Pending | — |
